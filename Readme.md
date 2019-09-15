@@ -53,7 +53,7 @@ Here's the list of all the VMs I've solved.
 |[GoldenEye](https://mzfr.github.io/vulnhub-writeups/2019-07-25-goldeneye)|[Melvin](https://twitter.com/_creosote)| 7|
 |[minu](https://mzfr.github.io/vulnhub-writeups/2019-07-24-minu)|[8bitsec](https://twitter.com/_8bitsec)|  7  |
 |[wordy](https://mzfr.github.io/vulnhub-writeups/2019-09-14-wordy)|[raj chandel](https://twitter.com/rajchandel)|6|
-|[Inoculation](https://mzfr.github.io/vulnhub-writeups/2019-09-14-innoculation)|[zayotic](https://twitter.com/zayotic)|7.5|
+|[Inoculation](https://mzfr.github.io/vulnhub-writeups/2019-09-14-inoculation)|[zayotic](https://twitter.com/zayotic)|7.5|
 
 __Note__: All the difficulty ratings are from 10(Obviously) and they are relative, meaning a machine that looked like a 3 to me might be a 1/7 for you.
 
