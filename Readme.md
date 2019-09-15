@@ -52,6 +52,7 @@ Here's the list of all the VMs I've solved.
 |[Tempus Fugit](https://mzfr.github.io/vulnhub-writeups/2019-08-14-fugit)|[DCAU](https://twitter.com/DCAU7/), [4nqr34z](https://twitter.com/4nqr34z)|9|
 |[GoldenEye](https://mzfr.github.io/vulnhub-writeups/2019-07-25-goldeneye)|[Melvin](https://twitter.com/_creosote)| 7|
 |[minu](https://mzfr.github.io/vulnhub-writeups/2019-07-24-minu)|[8bitsec](https://twitter.com/_8bitsec)|  7  |
+|[wordy](https://mzfr.github.io/vulnhub-writeups/2019-09-14-wordy)|[raj chandel](https://twitter.com/rajchandel)|6|
 
 __Note__: All the difficulty ratings are from 10(Obviously) and they are relative, meaning a machine that looked like a 3 to me might be a 1/7 for you.
 
