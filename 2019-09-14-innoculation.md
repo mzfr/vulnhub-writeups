@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Innoculation writeup
-date: 2019-09-12 8:00
+date: 2019-09-14 8:45
 ---
 <h1 align="center" style="font-size:30px;">
   <br>
