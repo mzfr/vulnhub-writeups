@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Innoculation writeup
+title: Inoculation writeup
 date: 2019-09-14 8:45
 ---
 <h1 align="center" style="font-size:30px;">
   <br>
-  <a href="https://www.vulnhub.com/entry/symfonos-2,331/">Innoculation</a>
+  <a href="https://tryhackme.com/room/inoculation">Inoculation</a>
   <br>
 </h1>
 
