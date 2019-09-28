@@ -50,6 +50,7 @@ Here's the list of all the VMs I've solved.
 |[serial](https://mzfr.github.io/vulnhub-writeups/2019-08-23-serial)|[Daniele](https://twitter.com/@sk4pwn)|8.5|
 |[Broken](https://mzfr.github.io/vulnhub-writeups/2019-08-21-Broken)|Avraham Cohen|5|
 |[Tempus Fugit](https://mzfr.github.io/vulnhub-writeups/2019-08-14-fugit)|[DCAU](https://twitter.com/DCAU7/), [4nqr34z](https://twitter.com/4nqr34z)|9|
+|[Tempus Fugit 2](https://mzfr.github.io/vulnhub-writeups/2019-09-07-fugit2)| [4nqr34z](https://twitter.com/4nqr34z) | 10|
 |[GoldenEye](https://mzfr.github.io/vulnhub-writeups/2019-07-25-goldeneye)|[Melvin](https://twitter.com/_creosote)| 7|
 |[minu](https://mzfr.github.io/vulnhub-writeups/2019-07-24-minu)|[8bitsec](https://twitter.com/_8bitsec)|  7  |
 |[wordy](https://mzfr.github.io/vulnhub-writeups/2019-09-14-wordy)|[raj chandel](https://twitter.com/rajchandel)|6|
@@ -68,6 +69,7 @@ If you are beginner then you can start with any of the following:
 If you want to do OSCP type machines then checkout
 
 * [Tempus fugit](https://www.vulnhub.com/entry/tempus-fugit-1,346/)
+* [Tempus fugit 2]https://www.vulnhub.com/series/tempus-fugit,229/)
 * [Wintermute](https://www.vulnhub.com/entry/wintermute-1,239/)
 * [digitalworld.local series](https://www.vulnhub.com/series/digitalworldlocal,182/)
 
