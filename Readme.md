@@ -69,7 +69,7 @@ If you are beginner then you can start with any of the following:
 If you want to do OSCP type machines then checkout
 
 * [Tempus fugit](https://www.vulnhub.com/entry/tempus-fugit-1,346/)
-* [Tempus fugit 2]https://www.vulnhub.com/series/tempus-fugit,229/)
+* [Tempus fugit 2](https://www.vulnhub.com/series/tempus-fugit,229/)
 * [Wintermute](https://www.vulnhub.com/entry/wintermute-1,239/)
 * [digitalworld.local series](https://www.vulnhub.com/series/digitalworldlocal,182/)
 
