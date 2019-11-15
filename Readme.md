@@ -36,6 +36,7 @@ Here's the list of all the VMs I've solved.
 |[jerome](https://mzfr.github.io/vulnhub-writeups/2019-07-23-jerome)|[Daniel](https://dsolstad.com/)|7|
 |[westwild](https://mzfr.github.io/vulnhub-writeups/2019-08-27-westwild2)|[Hashim Alsharef](https://twitter.com/hashimalshareff)|7.5/8|
 |[matrix](https://mzfr.github.io/vulnhub-writeups/2019-07-11-matrix)|[unknowndevice64](https://twitter.com/unknowndevice64)|6|
+|[Connect the dots](https://mzfr.github.io/vulnhub-writeups/2019-11-10-dots)|[unknowndevice64](https://www.linkedin.com/in/sumit-verma-125576129/)|6|
 |[zeus](https://mzfr.github.io/vulnhub-writeups/2019-07-24-zeus)|[Vasile Revnic](https://twitter.com/SirPwnALot)|8|
 |[WinterMute](https://mzfr.github.io/vulnhub-writeups/2019-07-26-wintermute)|[Melvin](https://twitter.com/_creosote)|9|
 |[nezuko](https://mzfr.github.io/vulnhub-writeups/2019-08-24-nezuko)|[nezuko kamado](https://twitter.com/@yunaranyancat)|6|
