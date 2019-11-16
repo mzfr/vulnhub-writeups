@@ -36,7 +36,7 @@ Here's the list of all the VMs I've solved.
 |[jerome](https://mzfr.github.io/vulnhub-writeups/2019-07-23-jerome)|[Daniel](https://dsolstad.com/)|7|
 |[westwild](https://mzfr.github.io/vulnhub-writeups/2019-08-27-westwild2)|[Hashim Alsharef](https://twitter.com/hashimalshareff)|7.5/8|
 |[matrix](https://mzfr.github.io/vulnhub-writeups/2019-07-11-matrix)|[unknowndevice64](https://twitter.com/unknowndevice64)|6|
-|[Connect the dots](https://mzfr.github.io/vulnhub-writeups/2019-11-10-dots)|[unknowndevice64](https://www.linkedin.com/in/sumit-verma-125576129/)|6|
+|[Connect the dots](https://mzfr.github.io/vulnhub-writeups/2019-11-10-dots)|[Sumit Verma](https://www.linkedin.com/in/sumit-verma-125576129/)|6|
 |[zeus](https://mzfr.github.io/vulnhub-writeups/2019-07-24-zeus)|[Vasile Revnic](https://twitter.com/SirPwnALot)|8|
 |[WinterMute](https://mzfr.github.io/vulnhub-writeups/2019-07-26-wintermute)|[Melvin](https://twitter.com/_creosote)|9|
 |[nezuko](https://mzfr.github.io/vulnhub-writeups/2019-08-24-nezuko)|[nezuko kamado](https://twitter.com/@yunaranyancat)|6|
@@ -57,6 +57,7 @@ Here's the list of all the VMs I've solved.
 |[wordy](https://mzfr.github.io/vulnhub-writeups/2019-09-14-wordy)|[raj chandel](https://twitter.com/rajchandel)|6|
 |[Infinity stones](https://mzfr.github.io/vulnhub-writeups/2019-09-19-stones)|[aarti singh](https://www.linkedin.com/in/aarti-singh-353698114/?originalSubdomain=in)|5.5|
 |[Inoculation](https://mzfr.github.io/vulnhub-writeups/2019-09-14-inoculation)|[zayotic](https://twitter.com/zayotic)|7.5|
+|[EVM](https://mzfr.github.io/vulnhub-writeups/2019-11-16-evm)|[ic0de](https://twitter.com/Ic0deWs) |3|
 
 __Note__: All the difficulty ratings are from 10(Obviously) and they are relative, meaning a machine that looked like a 3 to me might be a 1/7 for you.
 
