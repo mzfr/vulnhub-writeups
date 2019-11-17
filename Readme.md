@@ -58,6 +58,7 @@ Here's the list of all the VMs I've solved.
 |[Infinity stones](https://mzfr.github.io/vulnhub-writeups/2019-09-19-stones)|[aarti singh](https://www.linkedin.com/in/aarti-singh-353698114/?originalSubdomain=in)|5.5|
 |[Inoculation](https://mzfr.github.io/vulnhub-writeups/2019-09-14-inoculation)|[zayotic](https://twitter.com/zayotic)|7.5|
 |[EVM](https://mzfr.github.io/vulnhub-writeups/2019-11-16-evm)|[ic0de](https://twitter.com/Ic0deWs) |3|
+|[View2aKill](https://mzfr.github.io/vulnhub-writeups/2019-11-16-view2kill)|[_creosote](https://twitter.com/_creosote) |8.5|
 
 __Note__: All the difficulty ratings are from 10(Obviously) and they are relative, meaning a machine that looked like a 3 to me might be a 1/7 for you.
 
@@ -81,3 +82,4 @@ There are some machines that might not come under `OSCP type` but teaches someth
 * [Scarecrow](https://www.vulnhub.com/entry/scarecrow-11,354/)
 * [jigsaw series](https://www.vulnhub.com/series/jigsaw,210/)
 * [Symofonos series](https://www.vulnhub.com/series/symfonos,217/).
+* [View2aKill](https://www.vulnhub.com/entry/view2akill-1,387/)
