@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
+{% include head.html %}
+
+<body>
+  <div id="wrapper">
+    {% include header.html %}
+    <div class="container">
+      <section>
+        {{ content }}
+      </section>
+      {%- include footer.html -%}
+    </div>
+  </div>
+</body>
+
+</html>
