@@ -60,6 +60,7 @@ Here's the list of all the VMs I've solved.
 |[EVM](https://mzfr.github.io/vulnhub-writeups/2019-11-16-evm)|[ic0de](https://twitter.com/Ic0deWs) |3|
 |[View2aKill](https://mzfr.github.io/vulnhub-writeups/2019-11-16-view2kill)|[_creosote](https://twitter.com/_creosote) |8.5|
 |[Inplainsight](https://mzfr.github.io/vulnhub-writeups/2019-12-05-sight)|[@bzyo_](https://twitter.com/@bzyo_) |7.0|
+|[Sunset:dusk](https://mzfr.github.io/vulnhub-writeups/2019-12-10-dusk)|[whitecr0wz](https://twitter.com/@whitecr0w1) |5.5|
 
 __Note__: All the difficulty ratings are from 10(Obviously) and they are relative, meaning a machine that looked like a 3 to me might be a 1/7 for you.
 
