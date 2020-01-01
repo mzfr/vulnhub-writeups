@@ -18,6 +18,7 @@ Here's the list of all the VMs I've solved.
 |[DC:6](https://mzfr.github.io/vulnhub-writeups/2019-07-06-DC6) |[DCAU](https://twitter.com/DCAU7/)| 6
 |[DC:7](https://mzfr.github.io/vulnhub-writeups/2019-08-31-DC7)|[DCAU7](https://twitter.com/DCAU7)|7|
 |[DC:8](https://mzfr.github.io/vulnhub-writeups/2019-09-5-DC8)|[DCAU](https://twitter.com/DCAU7)|8|
+|[DC:9](https://mzfr.github.io/vulnhub-writeups/2019-12-25-DC)|[DCAU](https://twitter.com/DCAU7)|8.7|
 |[PumpkinGarden](https://mzfr.github.io/vulnhub-writeups/2019-07-07-PumpkinGarden)|[Jayanth](https://twitter.com/askjayanth)|5/6|
 [PumpkinRaising](https://mzfr.github.io/vulnhub-writeups/2019-07-08-PumpkinRaising)  |[Jayanth](https://twitter.com/askjayanth)|6.5|
 |[PumpkinFestival](https://mzfr.github.io/vulnhub-writeups/2019-07-22-PumpkinFestival)|[Jayanth](https://twitter.com/askjayanth)|7.5|
