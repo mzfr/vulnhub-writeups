@@ -28,6 +28,7 @@ Here's the list of all the VMs I've solved.
 |[symfonos:2](https://mzfr.github.io/vulnhub-writeups/2019-07-19-symfonos2)|[zayotic](https://twitter.com/zayotic/)|6.5|
 |[symfonos:3](https://mzfr.github.io/vulnhub-writeups/2019-07-20-symfonos3)|[zayotic](https://twitter.com/zayotic/)|7|
 |[symfonos:4](https://mzfr.github.io/vulnhub-writeups/2019-08-20-symfonos4)|[zayotic](https://twitter.com/zayotic/)|7.5|
+|[symfonos:5](https://mzfr.github.io/vulnhub-writeups/2020-10-01-symfonos5)|[zayotic](https://twitter.com/zayotic/)|6.5|
 |[AI: 1](https://mzfr.github.io/vulnhub-writeups/2019-09-03-ai2)|[Mohammad Ariful Islam](https://twitter.com/@arif_xpress)|5.5|
 |[AI:2](https://mzfr.github.io/vulnhub-writeups/2019-08-26-ai)|[Mohammad Ariful Islam](https://twitter.com/@arif_xpress)| 6.5/7 |
 |[dpwwn: 1](https://mzfr.github.io/vulnhub-writeups/2019-08-19-dpwwn1)|[debashisace](https://twitter.com/debashisace)|5|
