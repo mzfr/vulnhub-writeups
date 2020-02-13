@@ -65,7 +65,7 @@ Here's the list of all the VMs I've solved.
 |[Inplainsight](https://mzfr.github.io/vulnhub-writeups/2019-12-05-sight)|[@bzyo_](https://twitter.com/@bzyo_) |7.0|
 |[Sunset:dusk](https://mzfr.github.io/vulnhub-writeups/2019-12-10-dusk)|[whitecr0wz](https://twitter.com/@whitecr0wz) |5.5|
 |[Five86:1](https://mzfr.github.io/vulnhub-writeups/2020-01-01-five86)|[Five86_x](https://twitter.com/Five86_x)|7.0|
-|[Five86:2](https://mzfr.github.io/vulnhub-writeups/2020-09-01-five862)|[Five86_x](https://twitter.com/Five86_x)|7.5|
+|[Five86:2](https://mzfr.github.io/vulnhub-writeups/2020-01-09-five862)|[Five86_x](https://twitter.com/Five86_x)|7.5|
 
 __Note__: All the difficulty ratings are from 10(Obviously) and they are relative, meaning a machine that looked like a 3 to me might be a 1/7 for you.
 
